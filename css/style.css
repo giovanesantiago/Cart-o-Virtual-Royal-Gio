@@ -6,7 +6,8 @@
 }
 
 body{
-    background-color: #391A42;
+    background-attachment: fixed;
+    background-image: linear-gradient(#000000, #DB5A20, #000000);
 }
 .tudo{
     text-align: center;
@@ -24,20 +25,20 @@ body{
 } */
 header{
     text-align: center;
-    width: 70%;
+    width: 50%;
     height: 50%;
     padding: 0px;
     margin: auto;
 }
 .logo{
-    margin-top: 0px;
-    width: 100%;
+    margin: 30px;
+    width: 60%;
     opacity: 100% !important;
 }
 .redes{
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 80%;
     height: 90%;
     margin: auto;
     margin-top: 0px;
@@ -53,9 +54,9 @@ header{
     border: black;
     width: 100%;
     padding: 5px;
-    background-color: #C01F32;
+    background-color: #D94814;
     margin: 5px;
-    box-shadow: 2px 2px 2px 5px rgba(66, 66, 66, 0.144);;
+    box-shadow: 1px 1px 1px 3px rgba(66, 66, 66, 0.144);;
     
 }
 .ico {
@@ -104,7 +105,7 @@ a{
     height: 30%;
     color: white;
     font-family: 'Mali', cursive;
-    background-color: #157347;
+    background-color: #0D0D0D;
     padding: 5px;
     border-radius: 10px;
     font-size: 1.5em;
