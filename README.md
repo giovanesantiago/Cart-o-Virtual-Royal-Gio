@@ -7,10 +7,10 @@ Cartão de visita digital
     - Objetivo : Facilitar a divulgação dos meios de comunicação  
 - ## Requisitos do projeto 
     - ### Definição da tecnologia
-        1. Javascript (Liguagem)
-        2. HTML5
-        3. CSS3
-        4. Bootstrap
+        1. HTML5
+        2. CSS3
+        3. Bootstrap
+        4. API da Uber
     - ### Requisitos 
         1. Ter instalado em sua máquina as seguintes ferramentas: Gitbash e um navegador para visualização
                
