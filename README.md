@@ -25,7 +25,7 @@ Cartão de visita digital
  1. Clone este repositorio em sua maquina utilizando o gitbash:
  
 ``` 
-git clone "https://github.com/giovanesantiago/PagLeads"
+git clone "https://github.com/giovanesantiago/Cart-o-Virtual-Royal-Gio.git"
 ```
 
 2. Acesse a pasta do projeto e abra o arquivo :
